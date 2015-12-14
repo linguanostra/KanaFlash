@@ -1,0 +1,20 @@
+.mainContentContainer {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.kanaChar {
+    font-size: 200pt;
+    font-weight: 300;
+}
+
+.romajiChar {
+    font-size: 36pt;
+    font-weight: 300;
+}
+
+.nav-bar {
+    font-size: 36px;
+
+}
